@@ -1,6 +1,6 @@
 # Messenger-App-in-React-native
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3zDoF_ZknUk/0.jpg)](https://www.youtube.com/watch?v=3zDoF_ZknUk)
-
+Both android and ios support. Backend supported by cloud firestore and authentication using OAuth.
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
